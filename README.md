@@ -17,6 +17,7 @@ Google | N/A | N/A | [Link](https://careers.google.com/jobs/results/100983581326
 Jane Street | N/A | [Link](https://www.janestreet.com/join-jane-street/apply/) | [Link](https://www.janestreet.com/join-jane-street/apply/) 
 Jump Trading | N/A | [Link](https://www.jumptrading.com/apply.html?gh_jid=1550728) | N/A
 Lime | N/A | [Link](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | [Link](https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99)
+Lucid Software | N/A | [Link](https://www.golucid.co/careers/c689ce29-c74a-48d5-854f-f9dbc82a350e?team=Engineering) | [Link](https://www.golucid.co/careers/dd5e02ef-552e-4838-8892-65acb4919b05/?team=Engineering,Internships)
 Lyft | N/A | [Link](https://boards.greenhouse.io/lyft/jobs/4358047002?gh_jid=4358047002) | [Link](https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002) 
 Microsoft | [Link](https://careers.microsoft.com/students/us/en/job/650947/Internship-Opportunities-for-Students-Explore-Microsoft-Internship) | [Link](https://careers.microsoft.com/students/us/en/job/650858/Internship-Opportunities-for-Students-Software-Engineering-Program-Management) | [Link](https://careers.microsoft.com/us/en/job/643738/Full-Time-Opportunities-for-Students-or-Recent-Graduates-Software-Engineering-Program-Management)
 Qualtrics | N/A | [Link](https://boards.greenhouse.io/qualtrics/jobs/755570) | [Link](https://boards.greenhouse.io/qualtrics/jobs/52430)
